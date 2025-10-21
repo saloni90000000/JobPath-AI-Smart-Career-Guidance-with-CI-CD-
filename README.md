@@ -290,7 +290,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-**Prachi5555** - *Initial work* - [GitHub](https://github.com/Prachi5555)
+**saloni90000000** - *Initial work* - [GitHub](https://github.com/saloni90000000)
 
 ## 🙏 Acknowledgments
 
